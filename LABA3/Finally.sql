@@ -283,7 +283,7 @@ create table Reviews(
 alter table clients
 	drop column paymenttype;
 
-
+	
 insert into Payments (Order_Id, Payment_Date, Payment_Type)
 select
     o.id,

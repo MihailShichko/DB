@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6 term\\DB\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\serivces\\repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\serivces\\repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\serivces\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\serivces\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\serivces\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\serivces\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\serivces\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\serivces\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\serivces\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\serivces\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\serivces\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\serivces\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\models\\ordercoock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\models\\ordercoock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\models\\diningroomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\models\\diningroomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\controllers\\coockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\controllers\\coockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\serivces\\repository\\coockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\serivces\\repository\\coockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\models\\coock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\models\\coock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\models\\ordermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\models\\ordermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|d:\\6 term\\db\\lab6\\lab6\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ACD281-B464-411A-B3DB-D1B148EDA776}|Lab6\\Lab6.csproj|solutionrelative:lab6\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderCoock.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Models\\OrderCoock.cs",
+              "RelativeDocumentMoniker": "Lab6\\Models\\OrderCoock.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Models\\OrderCoock.cs",
+              "RelativeToolTip": "Lab6\\Models\\OrderCoock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:47:21.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Lab6\\Models\\Order.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Models\\Order.cs",
+              "RelativeToolTip": "Lab6\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T10:47:21.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Coock.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Models\\Coock.cs",
+              "RelativeDocumentMoniker": "Lab6\\Models\\Coock.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Models\\Coock.cs",
+              "RelativeToolTip": "Lab6\\Models\\Coock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T09:41:52.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Lab6\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Lab6\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:50:47.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Lab6\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Lab6\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:50:20.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Lab6\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Lab6\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:49:55.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "Lab6\\Controllers\\MenuController.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "Lab6\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:49:29.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderMenu.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Models\\OrderMenu.cs",
+              "RelativeDocumentMoniker": "Lab6\\Models\\OrderMenu.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Models\\OrderMenu.cs",
+              "RelativeToolTip": "Lab6\\Models\\OrderMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:49:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CoockController.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\CoockController.cs",
+              "RelativeDocumentMoniker": "Lab6\\Controllers\\CoockController.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\CoockController.cs",
+              "RelativeToolTip": "Lab6\\Controllers\\CoockController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:48:58.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Lab6\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Lab6\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwCIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:46:04.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Lab6\\Serivces\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Lab6\\Serivces\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:45:06.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Lab6\\Serivces\\Repository\\ClientRepository.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\ClientRepository.cs",
+              "RelativeToolTip": "Lab6\\Serivces\\Repository\\ClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:41:37.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CoockRepository.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\CoockRepository.cs",
+              "RelativeDocumentMoniker": "Lab6\\Serivces\\Repository\\CoockRepository.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\CoockRepository.cs",
+              "RelativeToolTip": "Lab6\\Serivces\\Repository\\CoockRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:40:59.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "Lab6\\Serivces\\Repository\\MenuRepository.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\MenuRepository.cs",
+              "RelativeToolTip": "Lab6\\Serivces\\Repository\\MenuRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:39:44.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Lab6\\Serivces\\Repository\\OrderRepository.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Lab6\\Serivces\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:38:55.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "Lab6\\Serivces\\Repository\\ReviewRepository.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "Lab6\\Serivces\\Repository\\ReviewRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:37:12.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Lab6\\Serivces\\Repository\\PaymentRepository.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Serivces\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "Lab6\\Serivces\\Repository\\PaymentRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:36:56.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiningroomContext.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Models\\DiningroomContext.cs",
+              "RelativeDocumentMoniker": "Lab6\\Models\\DiningroomContext.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Models\\DiningroomContext.cs",
+              "RelativeToolTip": "Lab6\\Models\\DiningroomContext.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAiwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:36:02.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Lab6\\WeatherForecast.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\WeatherForecast.cs",
+              "RelativeToolTip": "Lab6\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:24:44.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab6\\appsettings.json",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\appsettings.json",
+              "RelativeToolTip": "Lab6\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T01:24:19.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6 term\\DB\\Lab6\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab6\\Program.cs",
+              "ToolTip": "D:\\6 term\\DB\\Lab6\\Lab6\\Program.cs",
+              "RelativeToolTip": "Lab6\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwCoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:24:17.292Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 246,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
